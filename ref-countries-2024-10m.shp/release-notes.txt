@@ -1,0 +1,6 @@
+* 2024-06-04 Added CNTR 2024 and NUTS 2024
+* 2024-07-23 added gpkg format
+* 2024-10-09 All datasets: fixed encoding of multilingual shapefile attributes
+* 2025-01-15 countries 2024: fixed attribution of Wake island
+* 2025-02-26 fixed countries 2024 and NUTS 2024: a few mis-assigned islands in the Pacific 
+* 2025-03-11 made Türkiye boundaries using OSM data, added Bosnia and Herzegovina to NUTS level 2
